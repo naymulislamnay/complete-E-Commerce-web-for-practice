@@ -1,5 +1,9 @@
-.sora-regular {
-    font-family: "Sora", sans-serif;
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+}
+
+.inter-regular {
+    font-family: "Inter", sans-serif;
 }
 
 @import "tailwindcss"
